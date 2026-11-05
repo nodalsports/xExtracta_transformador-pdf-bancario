@@ -178,6 +178,13 @@ xExtracta reconoce el emisor solo:
 |---|---|
 | 🟢 **Neuquén** (BPN) | Resumen mensual de cuenta corriente en pesos del Banco Provincia del Neuquén. La columna de débito/crédito se lee por posición y se **verifica contra el saldo que imprime el banco en cada fila**. |
 
+**Novedades de la versión 3.1.0:**
+
+| | |
+|---|---|
+| **Confirmación del correo en la prueba** | En la prueba gratuita, después del primer Excel, la app te pide confirmar tu correo con un código de 6 dígitos. |
+| **Correcciones y ajustes** | Mejoras de seguridad y de compatibilidad. |
+
 **Novedades de la versión 3.0.2:**
 
 | | |
